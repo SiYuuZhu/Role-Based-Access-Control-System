@@ -34,6 +34,7 @@ This project is a **Role-Based Access Control (RBAC) management system**, design
 ![demo3-menu-mgt](https://github.com/user-attachments/assets/c3722b3b-55a2-4564-9bd0-7f37923788b9)
 Only admins have access to the above.
 ### Custom Role-Based Access
+![demo4-RoleBasedAccess](https://github.com/user-attachments/assets/2f329126-8a78-4350-9e81-4af66e2ae8c5)
 ![demo4-RoleBasedAccess](https://github.com/user-attachments/assets/6d80360b-84c8-4c13-83c4-eea691954c68)
 ### Account Center
 ![demo5-AccountCenter](https://github.com/user-attachments/assets/dd4af671-09c4-4d3c-87c8-d49eb3bbe42f)
